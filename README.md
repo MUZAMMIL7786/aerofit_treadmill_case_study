@@ -25,7 +25,7 @@ Here are some of the specific business problems that Aerofit is facing:
 - The regulatory environment for fitness equipment is changing, and Aerofit will need to stay up-to-date on these changes in order to avoid compliance issues.
 
 
-## Recommendations: Based on my insights, I recommend that Delhivery focus on the following areas:
+## Recommendations: Based on my insights, I recommend that Aerofit focus on the following areas:
 
 - Men spent more money than women, Hence Focus more on Men products
 - Product_Category - 1, 5, 8, & 11 have highest purchasing frequency. it means these are the
